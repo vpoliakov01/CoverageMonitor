@@ -12,7 +12,7 @@ CoverageMonitor displays a Go repository and its test coverage
 ## What it looks like:
 
 ### Select a github repository
-![image](https://user-images.githubusercontent.com/53489500/84440266-85963000-abee-11ea-95e3-f7d88f1fcc63.png)
+![image](https://user-images.githubusercontent.com/53489500/84440830-8aa7af00-abef-11ea-90bc-8975f90b6997.png)
 
 ### Select a file
 ![image](https://user-images.githubusercontent.com/53489500/84440503-f63d4c80-abee-11ea-94fa-8898b0e7ac8c.png)
