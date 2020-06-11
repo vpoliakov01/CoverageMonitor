@@ -21,7 +21,7 @@ CoverageMonitor displays a Go repository and its test coverage
 ![image](https://user-images.githubusercontent.com/53489500/83067907-4a0b3b80-a01c-11ea-85fa-b3a3f3f836c4.png)
 
 ## What's happening on the back end:
-When the user enters the repo, the back end uses github APIs (per project specifications) for
+When the user enters the repo, the back end uses github APIs for
 * Meta info (number of watchers and repo language)
 * Repo Files
 * File content
