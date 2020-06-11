@@ -12,13 +12,13 @@ CoverageMonitor displays a Go repository and its test coverage
 ## What it looks like:
 
 ### Select a github repository
-![image](https://user-images.githubusercontent.com/53489500/83067744-0f090800-a01c-11ea-80fb-642305b5a7fa.png)
+![image](https://user-images.githubusercontent.com/53489500/84440266-85963000-abee-11ea-95e3-f7d88f1fcc63.png)
 
 ### Select a file
-![image](https://user-images.githubusercontent.com/53489500/83067826-2d6f0380-a01c-11ea-960e-358df5d079ed.png)
+![image](https://user-images.githubusercontent.com/53489500/84440334-a65e8580-abee-11ea-96b4-547f3d8e3252.png)
 
 ### Click Run Tests
-![image](https://user-images.githubusercontent.com/53489500/83067907-4a0b3b80-a01c-11ea-85fa-b3a3f3f836c4.png)
+![image](https://user-images.githubusercontent.com/53489500/84440367-b8d8bf00-abee-11ea-8360-c3c7d0cff235.png)
 
 ## What's happening on the back end:
 When the user enters the repo, the back end uses github APIs for
