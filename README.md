@@ -15,7 +15,7 @@ CoverageMonitor displays a Go repository and its test coverage
 ![image](https://user-images.githubusercontent.com/53489500/84440266-85963000-abee-11ea-95e3-f7d88f1fcc63.png)
 
 ### Select a file
-![image](https://user-images.githubusercontent.com/53489500/84440334-a65e8580-abee-11ea-96b4-547f3d8e3252.png)
+![image](https://user-images.githubusercontent.com/53489500/84440503-f63d4c80-abee-11ea-94fa-8898b0e7ac8c.png)
 
 ### Click Run Tests
 ![image](https://user-images.githubusercontent.com/53489500/84440367-b8d8bf00-abee-11ea-8360-c3c7d0cff235.png)
